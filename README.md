@@ -15,9 +15,9 @@
 
 
 ## Источники
-- https://www.kaggle.com/shivamb/netflix-shows
-- https://datasets.imdbws.com/title.ratings.tsv.gz
-- https://datasets.imdbws.com/title.basics.tsv.gz
+- https://www.kaggle.com/shivamb/netflix-shows - кино и шоу Netflix на 2019г.
+- https://datasets.imdbws.com/title.ratings.tsv.gz - данные по рейтингу IMDb
+- https://datasets.imdbws.com/title.basics.tsv.gz - данные по рейтингу IMDb
 
 ## Методы сбора и обработки
 
