@@ -20,6 +20,7 @@
 - https://www.kaggle.com/shivamb/netflix-shows - кино и шоу Netflix на 2019г.
 - https://datasets.imdbws.com/title.ratings.tsv.gz - данные по рейтингу IMDb
 - https://datasets.imdbws.com/title.basics.tsv.gz - данные по рейтингу IMDb
+- http://kinopoisk.ru/ - данные по рейтингу Кинопоиска
 
 ## Методы сбора и обработки
 Данные сервиса Netflix были взяты с датасета, размещенного на kaggle.com, данные IMDb непосредственно с датасетов IMDb. Добавив данные сайта Кинопоиска мы решили изучить предпочтения российской аудитории. В качестве мотода обработки использовалась бибилиотека pandas.
